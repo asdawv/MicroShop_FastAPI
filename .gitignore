@@ -1,0 +1,8 @@
+/.venv/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/MicroShop_FastAPI.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
